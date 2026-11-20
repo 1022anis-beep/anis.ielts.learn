@@ -1,0 +1,6 @@
+{
+  "name": "Complete IELTS B1 Studio",
+  "description": "Interactive CEFR B1 / IELTS Bands 4-5 preparation platform with Google Drive progress sync, timestamped audio player, smart typo grading, targeted grammar lab, and writing rubric evaluator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
